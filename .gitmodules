@@ -1,0 +1,3 @@
+[submodule "linux-beaglebone-standard-build"]
+	path = linux-beaglebone-standard-build
+	url = https://github.com/vkrajput/BeagleBoneBlack/tree/master/poky/kernel-3.14-29/linux-beaglebone-standard-build/
